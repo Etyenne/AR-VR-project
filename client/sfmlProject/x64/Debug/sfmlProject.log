@@ -1,0 +1,4 @@
+﻿  vrpn_kinect_client.cpp
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpnProject\vrpn_kinect_client.cpp(227,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpnProject\vrpn_kinect_client.cpp(231,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
