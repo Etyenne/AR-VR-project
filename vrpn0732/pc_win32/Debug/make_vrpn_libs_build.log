@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (.\pc_win32/Debug\) contains files shared from another project (vrpn.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  make_vrpn_libs_build.cpp
+make_vrpn_libs_build.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  make_vrpn_libs_build.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\.\pc_win32/Debug\make_vrpn_libs_build.exe

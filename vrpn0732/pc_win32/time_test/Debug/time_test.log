@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  time_test.cpp
+vrpn.lib(vrpn_Shared.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Shared.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\time_test\Debug\vrpn.pdb'; linking object as if no debug info
+  time_test.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\.\pc_win32/time_test/Debug\time_test.exe

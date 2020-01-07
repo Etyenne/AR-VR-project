@@ -1,0 +1,116 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (.\..\..\pc_win32\server_src\directshow_video_server\Debug\) contains files shared from another project (DirectShow_baseclasses.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  directx_video_imager_server.cpp
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_video_imager_server.cpp(23,24): error C2143: syntax error: missing ';' before '*'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_video_imager_server.cpp(23,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_video_imager_server.cpp(23,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_video_imager_server.cpp(33,41): error C2061: syntax error: identifier 'directx_camera_server'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_video_imager_server.cpp(43,41): error C2061: syntax error: identifier 'directx_camera_server'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_video_imager_server.cpp(78,37): error C2661: 'vrpn_Imager_Server::vrpn_Imager_Server': no overloaded function takes 2 arguments
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_video_imager_server.cpp(154,17): warning C4477: 'fprintf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'unsigned int'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_video_imager_server.cpp(160,17): warning C4477: 'fprintf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'unsigned int'
+  directx_camera_server.cpp
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(19,23): error C2065: 'IBaseFilter': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(19,36): error C2065: 'pFilter': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(19,45): error C2065: 'PIN_DIRECTION': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(19,59): error C2146: syntax error: missing ')' before identifier 'PinDir'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(20,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(20,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(40,34): error C2065: 'IGraphBuilder': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(40,49): error C2065: 'pGraph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(40,57): error C2065: 'IBaseFilter': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(40,70): error C2065: 'pFirst': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(40,78): error C2065: 'IBaseFilter': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(40,91): error C2065: 'pSecond': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(41,1): error C2448: 'ConnectTwoFilters': function-style initializer appears to be a function definition
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(66,44): error C2653: 'directx_camera_server': is not a class or namespace name
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(72,8): error C2065: '_status': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(77,8): error C2065: '_started_graph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(80,5): error C2065: '_pGrabber': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(84,5): error C2065: '_pGrabber': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(87,13): error C2065: '_mode': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(87,20): error C2050: switch expression not integral
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(89,7): error C2065: '_pMediaControl': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(92,7): error C2065: '_pMediaControl': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(95,82): error C2065: '_mode': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(96,2): error C2065: '_status': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(101,7): error C2065: '_status': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(105,5): error C2065: '_started_graph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(115,8): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(118,11): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(120,10): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(129,7): error C2065: '_mode': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(130,5): error C2065: '_pMediaControl': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(131,5): error C2065: '_mode': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(134,7): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(135,5): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(136,9): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(138,7): error C2065: '_status': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(139,7): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(145,33): error C2065: '_num_rows': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(146,14): error C2065: '_buffer': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(146,22): error C2065: '_num_columns': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(146,57): error C2065: '_stride': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(146,71): error C2065: '_num_columns': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(146,85): error C2660: 'memcpy': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.24.28314\include\vcruntime_string.h(40,15): message : see declaration of 'memcpy'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(148,5): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(182,53): error C2653: 'directx_camera_server': is not a class or namespace name
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(194,3): error C3861: 'CoInitialize': identifier not found
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(200,20): error C2065: 'CLSID_FilterGraph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(200,45): error C2065: 'CLSCTX_INPROC_SERVER': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(201,9): error C2065: 'IID_IGraphBuilder': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(201,38): error C2065: '_pGraph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(200,3): error C3861: 'CoCreateInstance': identifier not found
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(202,7): error C2065: '_pGraph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(206,3): error C2065: '_pGraph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(206,27): error C2065: 'IID_IMediaControl': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(206,56): error C2065: '_pMediaControl': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(207,3): error C2065: '_pGraph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(207,27): error C2065: 'IID_IMediaEvent': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(207,54): error C2065: '_pEvent': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(213,20): error C2065: 'CLSID_CaptureGraphBuilder2': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(213,54): error C2065: 'CLSCTX_INPROC': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(214,7): error C2065: 'IID_ICaptureGraphBuilder2': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(214,44): error C2065: '_pBuilder': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(213,3): error C3861: 'CoCreateInstance': identifier not found
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(215,7): error C2065: '_pBuilder': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(224,3): error C2065: '_pBuilder': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(224,29): error C2065: '_pGraph': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(234,3): error C2065: 'ICreateDevEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(234,19): error C2065: 'pDevEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(235,20): error C2065: 'CLSID_SystemDeviceEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(235,50): error C2065: 'CLSCTX_INPROC': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(236,7): error C2065: 'IID_ICreateDevEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(236,37): error C2065: 'pDevEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(235,3): error C3861: 'CoCreateInstance': identifier not found
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(237,7): error C2065: 'pDevEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(246,3): error C2065: 'IEnumMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(246,17): error C2065: 'pClassEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(247,3): error C2065: 'pDevEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(247,35): error C2065: 'CLSID_VideoInputDeviceCategory': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(247,68): error C2065: 'pClassEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(248,7): error C2065: 'pClassEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(250,5): error C2065: 'pDevEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(258,3): error C2065: 'IMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(258,13): error C2065: 'pMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(259,3): error C2065: 'IBaseFilter': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(259,16): error C2065: 'pSrc': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(263,9): error C2065: 'pClassEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(263,30): error C2065: 'pMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(265,7): error C2065: 'pMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(270,7): error C2065: 'pClassEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(270,28): error C2065: 'pMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(272,5): error C2065: 'pMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(272,34): error C2065: 'IID_IBaseFilter': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(272,60): error C2065: 'pSrc': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(273,5): error C2065: 'pMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(276,5): error C2065: 'pMoniker': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(280,3): error C2065: 'pClassEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(281,3): error C2065: 'pDevEnum': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(286,9): error C2065: '_pCallback': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(286,6): error C2061: syntax error: identifier 'directx_samplegrabber_callback'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(286,69): error C2143: syntax error: missing ';' before '{'
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(299,20): error C2065: 'CLSID_SampleGrabber': undeclared identifier
+C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\directshow_video_server\directx_camera_server.cpp(299,39): fatal error C1003: error count exceeds 100; stopping compilation
+  Generating Code...

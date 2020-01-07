@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test_freespace.C
+test_freespace.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  test_freespace.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\.\../pc_win32/server_src/test_freespace/Debug\test_freespace.exe

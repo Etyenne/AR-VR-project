@@ -1,0 +1,3 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  vrpn_timecode_generator.cpp
+  timecode_generator.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\timecode_generator_server\.\../../pc_win32/server_src/timecode_generator/Debug\timecode_generator.lib

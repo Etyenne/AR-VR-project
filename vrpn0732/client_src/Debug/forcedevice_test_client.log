@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (tracker_to_poser.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  forcedevice_test_client.cpp
+forcedevice_test_client.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+forcedevice_test_client.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'forcedevice_test_client.obj' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vc142.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_BaseClass.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_BaseClass.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Button.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Button.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Connection.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Connection.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_FileConnection.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_FileConnection.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_ForceDevice.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_ForceDevice.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Serial.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Serial.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Shared.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Shared.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Tracker.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Tracker.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\Debug\vrpn.pdb'; linking object as if no debug info
+  forcedevice_test_client.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\.\Debug\forcedevice_test_client.exe

@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (.\../pc_win32/server_src/Debug\) contains files shared from another project (testimager_server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  vrpn_Phantom.C
+  trimesh.C
+  texture_plane.C
+  plane.C
+  InstantBuzzEffect.cpp
+  forcefield.C
+  constraint.C
+  buzzForceField.C
+  Generating Code...
+  vrpn_phantom.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\.\../pc_win32/server_src/Debug\vrpn_phantom.lib

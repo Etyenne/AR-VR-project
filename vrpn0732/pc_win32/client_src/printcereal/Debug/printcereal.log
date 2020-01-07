@@ -1,0 +1,11 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  printcereal.C
+vrpn.lib(vrpn_Analog.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Analog.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\client_src\printcereal\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_BaseClass.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_BaseClass.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\client_src\printcereal\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Button.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Button.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\client_src\printcereal\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Connection.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Connection.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\client_src\printcereal\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Dial.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Dial.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\client_src\printcereal\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_FileConnection.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_FileConnection.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\client_src\printcereal\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Serial.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Serial.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\client_src\printcereal\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Shared.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Shared.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\client_src\printcereal\Debug\vrpn.pdb'; linking object as if no debug info
+  printcereal.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\client_src\.\../pc_win32/client_src/printcereal/Debug\printcereal.exe

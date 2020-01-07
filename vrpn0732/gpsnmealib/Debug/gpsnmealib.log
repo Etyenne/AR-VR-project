@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  utmCoord.C
+  typedCoord.C
+  nmeaParser.C
+  latLonCoord.C
+  Generating Code...
+  gpsnmealib.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\Debug\gpsnmealib.lib

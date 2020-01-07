@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test_imager.C
+test_imager.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+vrpn.lib(vrpn_BaseClass.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_BaseClass.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\server_src\test_imager\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Connection.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Connection.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\server_src\test_imager\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_FileConnection.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_FileConnection.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\server_src\test_imager\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Imager.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Imager.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\server_src\test_imager\Debug\vrpn.pdb'; linking object as if no debug info
+vrpn.lib(vrpn_Shared.obj) : warning LNK4099: PDB 'vrpn.pdb' was not found with 'vrpn.lib(vrpn_Shared.obj)' or at 'C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\pc_win32\server_src\test_imager\Debug\vrpn.pdb'; linking object as if no debug info
+  test_imager.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\CLIENT_SRC\.\../pc_win32/server_src/test_imager/Debug\test_imager.exe

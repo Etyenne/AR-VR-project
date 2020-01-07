@@ -1,0 +1,3 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test_auxiliary_logger.C
+  test_auxiliary_logger.vcxproj -> C:\Users\etien\Dossier\efrei\M2\AR\VRPN\vrpn0732\server_src\.\../pc_win32/server_src/test_auxiliary_logger/Debug\test_auxiliary_logger.exe
